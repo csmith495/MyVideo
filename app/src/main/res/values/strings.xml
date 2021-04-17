@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyVideo</string>
+    <string name="create_account_btn">Create Account</string>
+    <string name="login_btn">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="return_btn">Return to Login</string>
+    <string name="create_act_btn">Create Account</string>
+    <string name="name_box">Name</string>
+</resources>
